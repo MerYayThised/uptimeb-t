@@ -1,0 +1,16 @@
+{
+  "name": "uptime-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for uptime monitoring",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.0.0",
+    "croxydb": "^0.1.1",
+    "node-fetch": "^2.6.1"
+  }
+}
